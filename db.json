@@ -1,5 +1,5 @@
 {
-   "names": [
+   "members": [
       { "id": 4343, "fname" : "Bill",  "lname" : "Gates" },
       { "id": 6324, "fname" : "Mark",  "lname" : "Zuckerberg" },
       { "id": 4224, "fname" : "Steve",  "lname" : "Jobs" },
